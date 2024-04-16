@@ -1,0 +1,6 @@
+Invoking command in '/home/tarek/TMWS/build/TMP': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tarek/pfe_nodes/install/my_node_controller:/opt/ros/humble /usr/bin/cmake /home/tarek/TMWS/src/TMP -DCMAKE_INSTALL_PREFIX=/home/tarek/TMWS/install/TMP
+Invoked command in '/home/tarek/TMWS/build/TMP' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tarek/pfe_nodes/install/my_node_controller:/opt/ros/humble /usr/bin/cmake /home/tarek/TMWS/src/TMP -DCMAKE_INSTALL_PREFIX=/home/tarek/TMWS/install/TMP
+Invoking command in '/home/tarek/TMWS/build/TMP': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tarek/pfe_nodes/install/my_node_controller:/opt/ros/humble /usr/bin/cmake --build /home/tarek/TMWS/build/TMP -- -j8 -l8
+Invoked command in '/home/tarek/TMWS/build/TMP' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tarek/pfe_nodes/install/my_node_controller:/opt/ros/humble /usr/bin/cmake --build /home/tarek/TMWS/build/TMP -- -j8 -l8
+Invoking command in '/home/tarek/TMWS/build/TMP': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tarek/pfe_nodes/install/my_node_controller:/opt/ros/humble /usr/bin/cmake --install /home/tarek/TMWS/build/TMP
+Invoked command in '/home/tarek/TMWS/build/TMP' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tarek/pfe_nodes/install/my_node_controller:/opt/ros/humble /usr/bin/cmake --install /home/tarek/TMWS/build/TMP
